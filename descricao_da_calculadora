@@ -1,0 +1,12 @@
+O intuito desta minha calculadora é o de cobrir todas as operaçoes tratadas em aula de modo que seja completo todas as possibilidades inseridas pelo usuario.
+
+obs.: por falta de conhecimento aprofundado, fui consultar o "pai dos burros" sobre como solucionar alguns erros na estrutura do cód. Por esse motivo os comandos "try" e "except" aparecem na linha de cód.
+"""
+
+Essa calculadore pode executar as seguintes operações:
+
+#utilize mult para Multiplicaçao
+#utilize som para Soma1
+#utilize sub para Subtracao
+#utilize div para Divisao
+#utilize pot para potencializacao
